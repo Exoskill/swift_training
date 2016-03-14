@@ -21,3 +21,4 @@ messageLabel.textAlignment = NSTextAlignment.Center
 messageLabel.layer.cornerRadius = 10.0
 messageLabel.clipsToBounds = true
 messageLabel
+
