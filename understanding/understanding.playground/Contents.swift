@@ -51,6 +51,15 @@ _ = { (a: Int, b: Int) -> Int in
 //Optional values (see : line of defenses and nil)
 var n: Int? = 5
 
-//Creating Custom Types
+var x = 4
+var y = 7.3
+
+var z = Double(x) + y
+// or : var z: Double = Double(x) + y
+
+typealias Byte = UInt8
+
+
+
 
 
